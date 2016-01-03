@@ -1,7 +1,7 @@
 /asset/
+/com/
 /dbdoc/
 /grails/
-/hibernate/
 /hibernate.cfg.xml
 /javascripts/
 /org/
@@ -80,4 +80,4 @@
 /UrlMappings.class
 /resources$_run_closure1.class
 /resources.class
-/com/
+/hibernate/
